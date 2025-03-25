@@ -1,9 +1,9 @@
 Olá, eu sou Eduardo Silva Waski 🖐👋
 
-- ✍  Engenharia de Software UnB - 4º Semestre
+- ✍  Engenharia de Software UnB - 5º Semestre
 - 👨‍💻 Estudando Python, Javascript, HTML e CSS
 - 📫 Email : eduardowaski688@gmail.com
-- 🌎 Certificado de Cambridge FCE (Estudando para C1 Advanced)
+- 🌎 Certificados de Cambridge FCE e CAE (C1 Advanced)
 
 <!---
 EduardoWaski/EduardoWaski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
